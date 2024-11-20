@@ -16,7 +16,6 @@ import jakarta.servlet.http.HttpServletResponse;
  *
  * @author Duy Thanh
  */
-@WebServlet("/EmailListServlet")
 public class EmailListServlet extends HttpServlet {
 
 @Override
